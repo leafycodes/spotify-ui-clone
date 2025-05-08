@@ -3,12 +3,12 @@
 A responsive Spotify interface clone built with pure HTML and CSS.
 
 Spotify Clone Preview:
-![Spotify Clone Preview](.\screenshots\ss1.png)
+![Spotify Clone Preview](screenshots\ss1.png)
 
-![Spotify Clone Preview](.\screenshots\ss2.png)
+![Spotify Clone Preview](screenshots\ss2.png)
 
 A dummy responsive card layout (wraps below 1000px):
-![Spotify Clone Preview](.\screenshots\ss3.png)
+![Spotify Clone Preview](screenshots\ss3.png)
 
 ## Features
 
