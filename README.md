@@ -28,7 +28,7 @@ A dummy responsive card layout (wraps below 1000px):
 
 ## View Project
 
-[Deployment Link (Use 1920 * 1080 screen resolution for best view)](#)
+[Deployment Link (Use 1920 * 1080 screen resolution for best view)](https://leafycodes.github.io/spotify-ui-clone/)
 
 ## Limitations
 
