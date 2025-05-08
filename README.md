@@ -19,7 +19,7 @@ A dummy responsive card layout (wraps below 1000px):
 - Sticky top navigation bar
 - Google Fonts as alternative to Spotify's proprietary fonts
 - Flex-wrap card layout
-- Conditional button visibility based on screen size
+- Conditional button visibility based on screen size 
 
 ## Technologies Used
 
